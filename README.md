@@ -1,21 +1,12 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 サンプルリポジトリ
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
-
-## Setup
-
-Make sure to install the dependencies
+## 環境構築
 
 ```bash
 yarn install
-```
 
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-yarn dev
+# 開発サーバの起動
+$ yarn dev
 ```
 
 ## Production
@@ -25,5 +16,3 @@ Build the application for production:
 ```bash
 yarn build
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment).
