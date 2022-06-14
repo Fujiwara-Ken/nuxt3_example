@@ -16,7 +16,7 @@ components の中身は PJ 毎に自由に変えてください。
 ## 1. `git clone`
 
 ```shell
-git clone git@github.com:Fujiwara-Ken/next_example.git
+git@github.com:Fujiwara-Ken/nuxt3_example.git
 ```
 
 ## 2. `yarn install`
