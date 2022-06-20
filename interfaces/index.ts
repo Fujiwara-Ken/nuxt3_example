@@ -1,2 +1,1 @@
-export { NftAdminUser } from "./nftAdminUser";
-export { sampleUser } from "./sampleUser";
+export { sampleUser } from './sampleUser';
